@@ -1,5 +1,5 @@
 <pre>
-  <h3>InfoFusion</h3>
+  <h1>InfoFusion</h1>
 <p>InfoFusion is a dynamic education platform designed to streamline content sharing and management for educators and students. The platform facilitates seamless learning through intuitive interfaces and robust functionality.</p>
 
 <h2>Key Features</h2>
